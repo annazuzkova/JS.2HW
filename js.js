@@ -62,4 +62,4 @@ const bjk = 4;
 const k = 3 ** 2 + 4 ** 2;
 console.log("k у 2 ступені=", k);
 
-("t, f, t ,f");
+// ("t, f, t ,f");
